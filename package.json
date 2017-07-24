@@ -1,0 +1,18 @@
+{
+    "name": "ss-server",
+    "version": "0.0.29",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "ss-server": "./index.js"
+    },
+    "author": "heruiwoniou",
+    "license": "MIT",
+    "description": "",
+    "dependencies": {
+        "commander": "^2.9.0",
+        "ss-server-base": "0.0.8"
+    }
+}
