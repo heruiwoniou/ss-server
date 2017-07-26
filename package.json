@@ -1,6 +1,6 @@
 {
     "name": "ss-server",
-    "version": "0.0.33",
+    "version": "0.0.34",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "description": "",
     "dependencies": {
         "commander": "^2.9.0",
-        "ss-server-base": "0.0.10"
+        "ss-server-base": "0.0.11"
     }
 }
 
